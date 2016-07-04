@@ -5652,10 +5652,10 @@ msgid "Sign up"
 msgstr "Zapisz się"
 
 msgid "Load Anyway"
-msgstr ""
+msgstr "Załaduj mimo to"
 
 msgid "Abort Loading"
-msgstr ""
+msgstr "Anuluj ładowanie"
 
 msgid "How would you like to proceed?"
 msgstr ""
@@ -5670,7 +5670,7 @@ msgid "Additional Mod(s):"
 msgstr ""
 
 msgid "Missing Mod(s):"
-msgstr ""
+msgstr "Brakujące mody:"
 
 msgid "There is a mismatch between the mods used in this save game and the mods you currently have active:"
 msgstr ""
@@ -5685,100 +5685,100 @@ msgid "This save slot is corrupt, please try restarting your game."
 msgstr ""
 
 msgid "Mods:"
-msgstr ""
+msgstr "Mody"
 
 msgid "Please wait..."
-msgstr ""
+msgstr "Czekaj..."
 
 msgid "Greenworks requirements missing!"
 msgstr ""
 
 msgid "Steam Workshop"
-msgstr ""
+msgstr "Warsztat Steam"
 
 msgid "Publish Mod"
-msgstr ""
+msgstr "Upublicznij Moda"
 
 msgid "Update Mod"
-msgstr ""
+msgstr "Zaaktualizuj Moda"
 
 msgid "Title*"
-msgstr ""
+msgstr "Tytuł"
 
 msgid "Description"
-msgstr ""
+msgstr "Opis"
 
 msgid "Mod Source Folder*"
 msgstr ""
 
 msgid "Choose Image"
-msgstr ""
+msgstr "Wybierz obraz"
 
 msgid "Image Preview"
-msgstr ""
+msgstr "Podgląd obrazu"
 
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgid "Idle"
 msgstr ""
 
 msgid "Publish"
-msgstr ""
+msgstr "Opublikuj"
 
 msgid "Your Mods"
-msgstr ""
+msgstr "Twoje Mody"
 
 msgid "Loading data..."
-msgstr ""
+msgstr "Ładowanie danych..."
 
 msgid "Your Mod Folder"
-msgstr ""
+msgstr "Twój folder z Modami"
 
 msgid "Choose Folder"
-msgstr ""
+msgstr "Wybierz folder"
 
 msgid "Choose Image"
-msgstr ""
+msgstr "Wybierz obraz"
 
 msgid "Update"
-msgstr ""
+msgstr "Aktualizacja"
 
 msgid "Reading package.json..."
-msgstr ""
+msgstr "Odczytywanie pakietów .json..."
 
 msgid "Error. Invalid Game Dev Tycoon Mod!"
-msgstr ""
+msgstr "Błąd. Nieprawidłowy Mod"
 
 msgid "No Mods found."
-msgstr ""
+msgstr "Nie znaleziono Modów"
 
 msgid "Folder"
-msgstr ""
+msgstr "Folder"
 
 msgid "Title"
-msgstr ""
+msgstr "Tytuł"
 
 msgid "Updating..."
-msgstr ""
+msgstr "Aktualizacja..."
 
 msgid "Publishing..."
-msgstr ""
+msgstr "Upublicznianie..."
 
 msgid "Update done"
-msgstr ""
+msgstr "Aktualizacja zakończona"
 
 msgid "Publish done"
-msgstr ""
+msgstr "Uaktualniane gotowe"
 
 msgid "Error. Missing {0}"
-msgstr ""
+msgstr "Błąd. Brakujący {0}"
 
 msgid "By submitting this item to Steam, you agree to the"
-msgstr ""
+msgstr "Dodając ten przedmiot na Steam akceptujesz"
 
 msgid "Steam Workshop terms of service"
-msgstr ""
+msgstr "Warunki usług Warsztatu Steam"
 
 msgid "Tutorials"
 msgstr "Poradniki"
@@ -5787,13 +5787,13 @@ msgid "Hardware"
 msgstr "sprzęt komputerowy"
 
 msgid "Player"
-msgstr ""
+msgstr "Gracz"
 
 msgid "you"
-msgstr ""
+msgstr "ty"
 
 msgid "Special thanks to {0} for purchasing this game and supporting us!"
-msgstr ""
+msgstr "Specjalne podziękowania dla {0} za kupienie tej gry i wspieranie nas!"
 
 msgid "G3 Training"
 msgstr ""
